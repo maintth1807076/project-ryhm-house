@@ -36,3 +36,11 @@ footer a {
     padding: 50px 0;
 }
 /*Complete index.html*/
+/*detail-product*/
+.related-product {
+    padding-top: 50px;
+}
+.best-sell-product .row {
+    padding: 20px;
+}
+/*Complete detail.html*/
